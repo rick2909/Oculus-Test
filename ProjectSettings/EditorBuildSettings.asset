@@ -11,7 +11,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Oculus/Avatar2/Example/Scenes/MirrorScene/MirrorScene.unity
     guid: 9f2e1693a4f24bc498477b3dfeb166aa
-  - enabled: 1
+  - enabled: 0
     path: Assets/Oculus/VR/Scenes/MRC.unity
     guid: c249320cff740054f973da7f7e24bd1f
   m_configObjects:
